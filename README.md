@@ -1,6 +1,6 @@
 # Python Developer Track 
 
-This repository contains codes from the Python Developer Track of JetBrains Academy made with Hyperskill. 
+This repository contains codes from projects under the Python Developer Track of JetBrains Academy made with Hyperskill. 
 
 ## Projects
 
